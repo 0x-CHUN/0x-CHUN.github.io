@@ -1,0 +1,35 @@
+baseURL = "https://0x-CHUN.github.io"
+theme = "paper"
+
+
+[params]
+  # color style
+  color = 'light'                 # linen, wheat, gray, light
+
+  # header social icons
+  github = '0x-CHUN'       # github.com/YOUR_GITHUB_ID
+  rss = true                      # show rss icon with link
+
+  # home page profile
+  avatar = 'https://img1.doubanio.com/icon/ul79107559-48.jpg'
+  name = 'CHUN'
+  bio = '我的心略大于整个宇宙'
+
+  # misc
+  monoDarkIcon = true             # show monochrome dark mode icon
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
