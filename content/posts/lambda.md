@@ -1,10 +1,8 @@
 ---
-title: "Lambda"
+title: "Lambda演算"
 date: 2022-10-27T22:13:14+08:00
 draft: false
 ---
-
-# Lambda演算
 
 $\lambda$演算有三个最基本方面：
 
